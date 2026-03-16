@@ -44,3 +44,9 @@ The game continues until the correct number is guessed.
 ## Author
 
 Software engineering student at ITS
+
+## Screenshots
+
+<img width="1000" height="1000" alt="Screenshot from 2026-03-16 22-25-59" src="https://github.com/user-attachments/assets/35236684-ad6a-42fe-971c-5f7542ca1b04" />
+
+
